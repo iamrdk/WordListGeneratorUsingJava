@@ -6,7 +6,7 @@ class WordlistGeneratorUsingJava
 {
     public void main()
     {
-        char a,b,c,d,e,f,g,h;   //8 characters in word. for more add more variables
+        char a,b,c,d,e,f,g,h,m,t;   //8 characters in word. for more add more variables
         String s="";            //Empty string that will contain all words
         m='A';                  //Starting character ASCII 65
         t='~';                  //Ending Character ASCII 176
